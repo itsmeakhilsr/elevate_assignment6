@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is some conflicting content added in master
+=======
+This is some content added in feature_branch
+>>>>>>> feature_branch
