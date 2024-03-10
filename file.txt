@@ -1,1 +1,1 @@
-This is some content added for merging
+This is some conflicting content added in master
